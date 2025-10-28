@@ -8,7 +8,7 @@ Fichier : [jakarta.apk](jakarta.apk)
 
 
 
-Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteur : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 Origine : [Jakarta](https://hackropole.fr/fr/challenges/reverse/fcsc2021-reverse-jakarta/)
 
